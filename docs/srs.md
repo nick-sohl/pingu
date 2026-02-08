@@ -1,5 +1,4 @@
 # Pingu - Currency Exchange System
-
 ## 1. Einleitung
 
 ### 1.1 Zweck des Dokuments
@@ -12,7 +11,7 @@ Ziel von Pingu Finance ist es, Consultants ein zentrales, sicheres und benutzerf
 
 ### 1.3 Produktüberblick
 
-Pingu Finance ist eine Desktop-Applikation zur Erfassung, Verwaltung und Auswertung von Währungstransaktionen. Die Anwendung wird mit Java und JavaFX umgesetzt, stellt Wechselkurse über einen dateibasierten Import bereit, ermöglicht Umrechnungen und unterstützt Consultants bei der strukturierten Verwaltung ihrer Kundendaten. Die erste Version (MVP) wird bis Januar 2026 bereitgestellt.
+Pingu Finance ist eine Desktop-Applikation zur Erfassung, Verwaltung und Auswertung von Währungstransaktionen. Die Anwendung wird mit Java und JavaFX umgesetzt, stellt Wechselkurse über einen dateibasierten Import bereit, ermöglicht Umrechnungen und unterstützt Consultants bei der strukturierten Verwaltung ihrer Kundendaten. Die erste Version (MVP) wird bis März 2026 bereitgestellt.
 
 ---
 

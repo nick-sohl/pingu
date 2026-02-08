@@ -14,7 +14,7 @@
 - [Tech Stack](#tech-stack)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Usage](#usage)
+<!-- - [Usage](#usage) -->
 - [Project Structure](#project-structure)
 - [Architecture](#architecture)
 - [UML Diagrams](#uml-diagrams)

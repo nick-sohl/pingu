@@ -1,0 +1,36 @@
+:root {
+  -green: #9BC264;
+  -pink: #F075AE;
+  -beige: #F7DB91;
+  -beige-light: #FFFDCE;
+
+  -dark: #1f1f1f;
+}
+
+.base-view {
+  -fx-background-color: -beige-light;
+  -fx-padding: 48;
+  -fx-spacing: 16;
+}
+
+.view-heading {
+  -fx-background-color: -beige;
+  -fx-padding: 32;
+  -fx-font-family: sans-serif;
+  -fx-font-size: 32;
+  -fx-font-weight: bold;
+  -fx-border-color: -dark;
+  -fx-border-width: 2;
+}
+
+.sidebar {
+  -fx-background-color: -pink;
+  -fx-padding: 16;
+  -fx-spacing: 8;
+  -fx-border-color: -dark;
+  -fx-border-width: 0 2 0 0;
+}
+
+.nav-button {
+
+}

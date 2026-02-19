@@ -57,8 +57,6 @@ public class ApplicationView extends HBox {
       // Get stylesheet from the classpath
       // INFO: Maven copies everything from src/main/resources/ onto the classpath at build time.
       this.getStylesheets().add(getClass().getResource("/styles/base.css").toExternalForm());
-
-
     }
 
   public void showView(Node view) {

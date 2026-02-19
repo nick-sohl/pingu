@@ -7,7 +7,7 @@ import javafx.scene.Scene;
 import javafx.stage.Stage;
 
 public class Main extends Application {
-  boolean authenticated = true;
+  boolean authenticated = false;
 
   // Views
   WelcomeView welcomeView = new WelcomeView();

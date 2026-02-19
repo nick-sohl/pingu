@@ -24,5 +24,4 @@ public class StartView extends VBox {
     // TODO: Decide what to use and when to use.
     return text;
   }
-
 }

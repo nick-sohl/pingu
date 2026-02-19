@@ -26,8 +26,9 @@ public class WelcomeView extends VBox {
   Button loginButton;
 
   public WelcomeView() {
-    // CSS file
+    // CSS files
     this.getStylesheets().add(getClass().getResource("/styles/base.css").toExternalForm());
+
     // CSS Selector
     this.getStyleClass().add("welcome-view");
 
